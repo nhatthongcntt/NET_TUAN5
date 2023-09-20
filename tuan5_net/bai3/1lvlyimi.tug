@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Text.RegularExpressions;
+
+namespace bai3
+{
+    public partial class Form_dktaikhoan : Form
+    {
+        public Form_dktaikhoan()
+        {
+            InitializeComponent();
+        }
+
+
+        public static bool IsEmail(string email)
+        {
+            if (string.IsNullOrEmpty(email))
+                return false;
+
+            string strRegex = @"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$";
+            Regex regex = new Regex(strRegex);
+
+            return regex.IsMatch(email);
+        }
+
+    }
+}

@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\bin\Debug\baitap2.exe.config
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\bin\Debug\baitap2.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\bin\Debug\baitap2.pdb
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\obj\Debug\baitap2.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\obj\Debug\baitap2.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\obj\Debug\baitap2.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\obj\Debug\baitap2.pdb
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\baitap2\obj\Debug\baitap2.formbt2.resources
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan6_net\baitap2\bin\Debug\baitap2.exe.config
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan6_net\baitap2\obj\Debug\baitap2.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan6_net\baitap2\obj\Debug\baitap2.pdb

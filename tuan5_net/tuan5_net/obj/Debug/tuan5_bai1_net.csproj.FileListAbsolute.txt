@@ -1,0 +1,3 @@
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\tuan5_net\bin\Debug\tuan5_net.exe.config
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\tuan5_net\obj\Debug\tuan5_net.exe
+E:\LuuDuLieuSinhVien\2001190840_LeHoangNhatThong\tuan5_net\tuan5_net\obj\Debug\tuan5_net.pdb

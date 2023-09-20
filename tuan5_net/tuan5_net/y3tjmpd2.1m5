@@ -1,0 +1,130 @@
+﻿namespace tuan5_net
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.txtb_Name = new System.Windows.Forms.TextBox();
+            this.txtb_birth = new System.Windows.Forms.TextBox();
+            this.lbl_name = new System.Windows.Forms.Label();
+            this.lbl_birth = new System.Windows.Forms.Label();
+            this.btn_show = new System.Windows.Forms.Button();
+            this.btn_close = new System.Windows.Forms.Button();
+            this.btn_exit = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // txtb_Name
+            // 
+            this.txtb_Name.Location = new System.Drawing.Point(101, 39);
+            this.txtb_Name.Name = "txtb_Name";
+            this.txtb_Name.Size = new System.Drawing.Size(101, 21);
+            this.txtb_Name.TabIndex = 1;
+            // 
+            // txtb_birth
+            // 
+            this.txtb_birth.Location = new System.Drawing.Point(102, 90);
+            this.txtb_birth.Name = "txtb_birth";
+            this.txtb_birth.Size = new System.Drawing.Size(100, 21);
+            this.txtb_birth.TabIndex = 2;
+            // 
+            // lbl_name
+            // 
+            this.lbl_name.AutoSize = true;
+            this.lbl_name.Location = new System.Drawing.Point(25, 47);
+            this.lbl_name.Name = "lbl_name";
+            this.lbl_name.Size = new System.Drawing.Size(63, 13);
+            this.lbl_name.TabIndex = 3;
+            this.lbl_name.Text = "Your Name:";
+            // 
+            // lbl_birth
+            // 
+            this.lbl_birth.AutoSize = true;
+            this.lbl_birth.Location = new System.Drawing.Point(25, 98);
+            this.lbl_birth.Name = "lbl_birth";
+            this.lbl_birth.Size = new System.Drawing.Size(71, 13);
+            this.lbl_birth.TabIndex = 4;
+            this.lbl_birth.Text = "Year of birth:";
+            // 
+            // btn_show
+            // 
+            this.btn_show.Location = new System.Drawing.Point(28, 152);
+            this.btn_show.Name = "btn_show";
+            this.btn_show.Size = new System.Drawing.Size(75, 23);
+            this.btn_show.TabIndex = 5;
+            this.btn_show.Text = "SHOW";
+            this.btn_show.UseVisualStyleBackColor = true;
+            // 
+            // btn_close
+            // 
+            this.btn_close.Location = new System.Drawing.Point(161, 152);
+            this.btn_close.Name = "btn_close";
+            this.btn_close.Size = new System.Drawing.Size(75, 23);
+            this.btn_close.TabIndex = 6;
+            this.btn_close.Text = "CLOSE";
+            this.btn_close.UseVisualStyleBackColor = true;
+            // 
+            // btn_exit
+            // 
+            this.btn_exit.Location = new System.Drawing.Point(313, 153);
+            this.btn_exit.Name = "btn_exit";
+            this.btn_exit.Size = new System.Drawing.Size(75, 23);
+            this.btn_exit.TabIndex = 7;
+            this.btn_exit.Text = "EXIT";
+            this.btn_exit.UseVisualStyleBackColor = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(484, 261);
+            this.Controls.Add(this.btn_exit);
+            this.Controls.Add(this.btn_close);
+            this.Controls.Add(this.btn_show);
+            this.Controls.Add(this.lbl_birth);
+            this.Controls.Add(this.lbl_name);
+            this.Controls.Add(this.txtb_birth);
+            this.Controls.Add(this.txtb_Name);
+            this.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Name = "Form1";
+            this.Text = "BAI1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TextBox txtb_Name;
+        private System.Windows.Forms.TextBox txtb_birth;
+        private System.Windows.Forms.Label lbl_name;
+        private System.Windows.Forms.Label lbl_birth;
+        private System.Windows.Forms.Button btn_show;
+        private System.Windows.Forms.Button btn_close;
+        private System.Windows.Forms.Button btn_exit;
+    }
+}
+
